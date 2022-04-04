@@ -1,0 +1,34 @@
+{
+    "listaInstrumenata":[
+        {
+            "nazivInstrumenta":"termometar",
+            "proizvodjac":"leCrosseTechnology",
+            "godinaKupovine":"2021",
+            "brojInstrumenata":3,
+            "cijenaJednogInstrumenta":10000,
+            "datumTestiranjaTacnosti":"2022/11/02",
+            "narednoTestiranje":"2022/11/05",
+            "testoveMjerenjaRadio":"Marko Markovic"
+        },
+        {
+            "nazivInstrumenta":"higrometar",
+            "proizvodjac":"Thermco",
+            "godinaKupovine":"2020",
+            "brojInstrumenata":1,
+            "cijena":6000,
+            "datumTestiranjaTacnosti":"2022/11/02",
+            "narednoTestiranje":"2022/11/05",
+            "testoveMjerenjaRadio":"Marko Markovic"
+        },
+        {
+            "nazivInstrumenta":"pluviometar",
+            "proizvodjac":"Omega",
+            "godinaKupovine":"2021",
+            "brojInstrumenata":1,
+            "cijenaJednogInstrumenta":8000,
+            "datumTestiranjaTacnosti":"2022/11/02",
+            "narednoTestiranje":"2022/11/05",
+            "testoveMjerenjaRadio":"Marko Markovic"
+        }
+    ]
+}
