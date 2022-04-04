@@ -1,0 +1,34 @@
+{
+    "dnevneVrijednostiTemperature":[
+        {
+            "mjesto":"Gacko",
+            "lokacijeMjerenja":["Kosuta","Fojnica","Cemerno"],
+            "maksimalnaDnevnaTemperatura":[
+                {
+                    "mjerenjaNaDnevnomNivou":true,
+                    "datumMjerenja":"2022/03/12",
+                    "vrijemeMjerenja":"16:00",
+                    "vrijednostMjerenja":"-1,42"
+                }
+            ],
+            "minimalnaDnevnaTemperatura":[
+                {
+                    "mjerenjaNaDnevnomNivou":true,
+                    "datumMjerenja":"2022/03/12",
+                    "vrijemeMjerenja":"07:00",
+                    "vrijednostiMjerenja":"-10,17"
+                }
+            ],
+            "prosjecnaVrijednostTemperature":[
+                {
+                    "mjerenjaNaDnevnomNivou":true,
+                    "datumMjerenja":"2022/03/12",
+                    "vrijednostiMjerenja":"-4,90"
+                }
+            ]
+        }
+    ]
+}
+
+        
+        

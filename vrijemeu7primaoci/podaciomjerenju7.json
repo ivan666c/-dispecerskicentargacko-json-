@@ -1,0 +1,14 @@
+{
+    "podaciOMjerenju":[
+        {
+            "imeMjesta":"Gacko",
+            "datumOcitavanja":"2022-13-03",
+            "vrijemeMjerenja":"07:00",
+            "temperatura":"10.17",
+            "vlaznostVazduha":"22",
+            "brzinaVjetra":"17",
+            "smjerVjetra":"jz",
+            "primaociPodatka":["rtrs","riteGacko","radioGacko"]
+        }
+    ]
+}        
