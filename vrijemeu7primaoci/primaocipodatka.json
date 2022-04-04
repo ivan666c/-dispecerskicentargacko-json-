@@ -1,0 +1,16 @@
+{
+    "primaociPodatka":[
+    {
+        "ime": "rtrs",
+        "emailAdresa":"desk@rtrstv"
+    },
+    {
+        "ime":"riteGacko",
+        "emailAdresa":"info@ritegacko.com"
+    },
+    {
+        "ime":"radioGacko",
+        "telefon":"059/472-722"
+    }
+]
+}

@@ -1,0 +1,35 @@
+{
+    "mjesecneVrijednostiTemperature":[
+        {
+            "imeGrada":"Gacko",
+            "lokacije":["Kosuta","Cemerno","Fojnica"],
+            "periodMjerenja":"mart 2022",
+            "brojDana":"31",
+            "vrijednostiTemperaturaZaMart":[
+                {
+                    "podatak":"maksimalnaMjesecnaTemperatura",
+                    "vrijednost":16.33,
+                    "datumMjerenja":"2022-16-03"
+                },
+                {
+                    "podatak":"minimalnaMjesecnaTemperatutura",
+                    "vrijednost":"-13.56",
+                    "datumMjerenja":"2022-10-03"
+                },
+                {
+                    "podatak":"prosjecnaMjesecnaTemperatura",
+                    "vrijednost":4.45
+                }
+            ]
+        }
+    ]
+}
+        
+        
+
+
+        
+            
+
+
+

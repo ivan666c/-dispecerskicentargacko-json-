@@ -1,0 +1,10 @@
+{
+ "mjerenjaTemperature":[
+     {
+         "mjesto":"Gacko",
+         "lokacijeMjerenja":["Foca","Fojnica","Cemerno"],
+         "mjerenjaNaDnevnomNivou":true,
+         "vrijemeMjerenja":["07:00","10:00","16:00","20:00"]
+     }
+    ]
+}

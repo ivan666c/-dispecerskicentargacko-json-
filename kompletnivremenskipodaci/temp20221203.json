@@ -1,0 +1,28 @@
+{
+    "temperatureGacko":[
+        {
+            "mjesto":"Gacko",
+         "lokacijeMjerenja":["Foca","Fojnica","Cemerno"],
+         "mjerenjaNaDnevnomNivou":true,
+         "datumMjerenja":"2022/13/03",
+         "vrijemeMjerenjaITemperatura":[
+         {
+             "vrijemeMjerenja":"07:00",
+             "temperatura":"-10,17"
+         },
+         {
+             "vrijemeMjerenja":"10:00",
+             "temperatura":"-4,98"
+         },
+         {
+             "vrijemeMjerenja":"16:00",
+             "temperatura":"-1,42"
+         },
+         {
+             "vrijemeMjerenja":"20:00",
+             "temperatura":"-3,06"
+         }
+         ]
+        }
+    ]
+}

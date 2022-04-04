@@ -1,0 +1,27 @@
+{
+    "ostaliVremenskiPodaci":[
+        {
+        "velicinaMjerenja":"vazdusniPritisak",
+        "imeMjesta":"Gacko",
+        "mjerenjaNaDnevnomNivou":true,
+        "lokacijeMjerenja":["Kosuta","Fojnica","Cemerno"],
+        "vrijemeMjerenja":["07:00","10:00","16:00","20:00"]
+    },
+    {
+        "velicinaMjerenja":"brzinaISmjerVjetra",
+        "imeMjesta":"Gacko",
+        "mjerenjaNaDnevnomNivou":true,
+        "lokacijeMjerenja":["Kosuta","Fojnica","Cemerno"],
+        "vrijemeMjerenja":["07:00","10:00","16:00","20:00"]
+    },
+    {
+        "velicinaMjerenja":"kolicinaPadavina",
+        "imeMjesta":"Gacko",
+        "mjerenjaNaDnevnomNivou":true,
+        "lokacijeMjerenja":["Kosuta","Fojnica","Cemerno"],
+        "vrijemeMjerenja":["07:00","10:00","16:00","20:00"]
+    }
+]
+}
+
+    
